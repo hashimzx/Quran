@@ -1,0 +1,6 @@
+{
+  "name": "Dawat-e-Islami & Quran Portal with My Voice Studio",
+  "description": "Comprehensive Islamic portal inspired by dawateislami.net featuring full Al-Quran with Uthmani script & multi-translations, live Prayer timings, Books library, Rohani Ilaj, and My Voice Studio to record, upload, and stream your own Quran recitation & Naats.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
